@@ -3,7 +3,7 @@ My first business analytics project, using Python, SQL and Power BI
 # Customer Behavior Analysis
 
 This project analyzes customer behavior, revenue drivers, and discount effectiveness using Python, SQL, and Power BI. The goal is to uncover actionable insights that support business decision-making and product strategy.
-
+Link Notion for Project Management: https://www.notion.so/Customer-Behavior-Analysis-Dashboard-34e6c310200d8068af68db390b7adff1?source=copy_link
 ---
 
 ## Project Overview
