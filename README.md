@@ -49,23 +49,6 @@ The Power BI dashboard is divided into 4 main sections:
 4. **Discount Impact**
    - Discount vs non-discount performance
    - Impact on AOV and customer behavior
-
----
-customer_behavior_analysis/
-│
-├── notebooks/
-│ └── Project_Behavior_Analysis.ipynb
-│
-├── sql/
-│ └── SQL_Customer_Behavior.sql
-│
-├── powerbi/
-│ └── customer_dashboard.pbix
-│
-├── report/
-│ └── Customer Behavior Analysis Report.pdf
-│
-└── README.md
 ---
 
 ## Limitations
@@ -86,7 +69,7 @@ customer_behavior_analysis/
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Python 
 - SQL
